@@ -1,0 +1,13 @@
+body{
+    background-color: #07113f;
+}
+input{
+    margin: 0.5rem;
+    text-align: center;
+}
+.back-fond{
+    display: flex;
+    justify-content: center;
+    min-height: 30vh;
+    align-items: center;
+}
